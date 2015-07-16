@@ -1,0 +1,2 @@
+# master-magic-five
+Yeah!
